@@ -1,4 +1,4 @@
-git clone https://github.com/Ijalkepinnn-bot/terserah-Wak-namanya.git)
+git clone https://github.com/Ijalkepinnn-bot/terserah-Wak-namanya.git
 
 cd Takyprov2-DDoS
 
